@@ -11,7 +11,8 @@ It'll then export them into a CSV.
 To install, you'll need 3 things:
 - A server with the latest Node.js version installed
 - All required packages (run "npm install" before running)
-- A Moz API subscription for getting domain metrics
+- A Moz API subscription for getting domain metrics (can also work on the trial in smaller projects)
+- A Hunter.io API subscription, or trial, for getting emails and contact info
 
 # Running
 
