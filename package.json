@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"mozscape": "^0.1.6",
+		"async": "*",
+		"fs": "*",
+		"csv-parse": "*",
+		"psl": "*",
+		"request": "*",
+		"json2csv": "*'"
+	}
+}

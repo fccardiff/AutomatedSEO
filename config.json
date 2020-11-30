@@ -1,0 +1,23 @@
+{
+	"moz": {
+		"useMoz": true,
+		"secretKey": "YOUR_MOZ_API_KEY",
+		"accessId": "YOUR_MOZ_API_SECRET"
+	},
+	"hunter": {
+		"useHunter": true,
+		"apiKey": "YOUR_HUNTER_API_KEY",
+		"minConfidence": 50,
+		"allowNoNames": true
+	},
+	"domains": {
+		"minDA": 0,
+		"maxDA": 100,
+		"minPA": 0,
+		"maxPA": 100
+	},
+	"mode": "BROKEN_LINKS",
+	"path": "./",
+	"outputPath": "./output.csv",
+	"column": "Referring Page URL"
+}
